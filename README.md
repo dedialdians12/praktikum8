@@ -1,6 +1,9 @@
 Nama    : Dedi Aldiansyah
+
 Nim     : 312210452
+
 Kelas   : TI22B2
+
 
 TUGAS PRAKTIKUM 8
 
